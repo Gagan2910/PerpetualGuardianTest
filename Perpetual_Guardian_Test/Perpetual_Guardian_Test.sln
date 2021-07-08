@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perpetual_Guardian_Test", "Perpetual_Guardian_Test\Perpetual_Guardian_Test.csproj", "{F80D3089-8435-499E-A5B0-0E51587AB26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80D3089-8435-499E-A5B0-0E51587AB26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80D3089-8435-499E-A5B0-0E51587AB26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80D3089-8435-499E-A5B0-0E51587AB26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80D3089-8435-499E-A5B0-0E51587AB26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2304C8F-7341-419C-BAB4-AD76FB99F048}
+	EndGlobalSection
+EndGlobal
